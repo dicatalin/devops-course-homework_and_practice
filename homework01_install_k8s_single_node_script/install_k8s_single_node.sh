@@ -78,6 +78,8 @@ helm install cilium cilium/cilium --version 1.18.3 --namespace kube-system
 # no taint, for singlenode
 kubectl taint nodes --all node-role.kubernetes.io/control-plane-
 
+# wait 30 sec
+sleep 30
 # create nginx pod for test
 kubectl create deployment nginx --image=nginx
 kubectl expose deployment nginx --port=80 --type=NodePort
