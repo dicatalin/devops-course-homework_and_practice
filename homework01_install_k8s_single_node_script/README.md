@@ -24,5 +24,6 @@ bash install_k8s_single_node.sh
 
 Example: `http://192.168.122.39:32507`
 
-References: 
-  https://max-pfeiffer.github.io/installing-kubernetes-on-debian-13-trixie.html
+References:
+* https://kubernetes.io/docs/home/
+* https://max-pfeiffer.github.io/installing-kubernetes-on-debian-13-trixie.html
