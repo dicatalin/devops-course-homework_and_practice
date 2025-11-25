@@ -22,6 +22,7 @@ bash install_k8s_single_node.sh
 
 3. After install you can access a demo nginx welcome page at: http://YOUR_SERVER_IP:PORT
 
-Example: http://192.168.122.39:32507
+Example: `http://192.168.122.39:32507`
 
-References: https://max-pfeiffer.github.io/installing-kubernetes-on-debian-13-trixie.html
+References: 
+  https://max-pfeiffer.github.io/installing-kubernetes-on-debian-13-trixie.html
