@@ -1,10 +1,10 @@
-## Instal kubernetes on one machine in sinble node mode for learning with a demo nginx pod
+## Instal kubernetes on one machine in single node mode for learning with a demo nginx pod
 
 #### Virtual machine characteristics
-OS: Debian 13 (trixie)
-CPU: 2 cores
-RAM: 4 GB
-Disk: 20GB
+* OS: Debian 13 (trixie)
+* CPU: 2 cores
+* RAM: 4 GB
+* Disk: 20GB
 
 #### Usage
 
